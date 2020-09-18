@@ -1,0 +1,21 @@
+
+.home{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 600px;
+}
+
+.setting{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 200px;
+}
+
+.setting .set-item{
+  margin-top: 20px;
+}
+.setting .set-item input{
+  width: 100%;
+}
